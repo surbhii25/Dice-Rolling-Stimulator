@@ -9,7 +9,7 @@ This mini-project involves writing a program that simulates rolling dice. When t
 4. Looping.
 
 ## CODE:
-'''python
+'''
 import random
 print("This is a dice stimulator")
 x = "y"
