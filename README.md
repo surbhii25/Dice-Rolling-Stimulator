@@ -54,3 +54,5 @@ This mini-project involves writing a program that simulates rolling dice. When t
             print("----------")
         x = input("Press y to roll again ")
     
+## OUTPUT:
+![output](https://user-images.githubusercontent.com/81489001/120473523-bb669280-c3c4-11eb-8ce6-adb1aef33f36.PNG)
