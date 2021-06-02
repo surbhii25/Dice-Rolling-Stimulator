@@ -1,5 +1,4 @@
 # DICE ROLLING STIMULATOR
-=================================================================================================================================================================================
 
 This mini-project involves writing a program that simulates rolling dice. When the program runs, it will randomly choose a number between 1 and 6. The program will print that number and ask you if you’d like to roll the dice again.
 
@@ -11,6 +10,7 @@ This mini-project involves writing a program that simulates rolling dice. When t
 
 ## CODE:
 '''python
+
 import random
 print("This is a dice stimulator")
 x = "y"
